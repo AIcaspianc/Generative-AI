@@ -4,7 +4,7 @@
  
 This case study explores the development of a machine learning model to address a specific problem within the realm of data analysis. Using Python, we demonstrate the full pipeline of creating a predictive model, including data preprocessing, model selection, training, and evaluation.
 
-## Case Study Problem
+## Case Study Problem 
 
 The problem at hand is to predict or classify a particular outcome based on historical data. This could range from forecasting sales based on past performance to identifying objects in images. The challenge lies in accurately processing the data and selecting the appropriate model to predict future instances effectively.
 
