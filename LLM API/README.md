@@ -1,7 +1,7 @@
 # Generative AI , LLM 
 
 ## Introduction
-
+ 
 This case study explores the development of a machine learning model to address a specific problem within the realm of data analysis. Using Python, we demonstrate the full pipeline of creating a predictive model, including data preprocessing, model selection, training, and evaluation.
 
 ## Case Study Problem
